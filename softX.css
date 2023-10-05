@@ -14,7 +14,7 @@
   --saturation: 0%;
   --lightness: 10%;
   --transition: 0.15s ease;
-  --chat-glow-intensity: var(--glow-intensity);
+  --chat-glow-intensity: var(--chat-intensity);
   --channel-glow-intensity: var(--channel-intensity);
   --members-glow-intensity: var(--user-intensity);
   --input-glow-intensity: var(--glow-intensity);
